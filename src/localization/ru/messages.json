@@ -1026,8 +1026,6 @@
   "warrior.fury.suggestions.bladestorm.castsEnrage": "{0}% of Bladestorm casts outside of enrage",
   "warrior.fury.suggestions.dragonRoar.efficiency": "{0}% of Bladestorm casts outside of enrage",
   "warrior.fury.suggestions.enrage.uptime": "{0}% Enrage uptime",
-  "warrior.fury.suggestions.frothingBerserker.uptime": "{0}% Frothing Berserker uptime",
-  "warrior.fury.suggestions.furiousSlash.uptime": "{0} times Furious Slash dropped",
   "warrior.fury.suggestions.rage.wasted": "{0}% wasted",
   "warrior.fury.suggestions.rampages.missed": "{actual} missed Rampages.",
   "warrior.fury.suggestions.siegeBreaker.efficiency": "{0}% of Recklessnesses casts without a Siegebreaker cast",
